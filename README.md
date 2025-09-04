@@ -21,8 +21,8 @@ boulderbar:
 
 key | description
 -- | --
-**platform (Required)** | The platform name.
-**location (Required)** | The Gym name. 
+**platform (Required)** | The platform name
+**location (Required)** | The Gym name
 
 ## dashboard exemple card.yaml
 
@@ -84,5 +84,5 @@ ROOMS_MAPPING = {
 
 This platform is using the [Boulderbar API](http://www.boulderbar.net) API to get the information.
 
-Lizenz (CC BY 3.0 AT)
+
 
