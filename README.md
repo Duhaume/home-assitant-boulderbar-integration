@@ -22,7 +22,7 @@ boulderbar:
 key | description
 -- | --
 **platform (Required)** | The platform name.
-**location (Required)** | 
+**location (Required)** | The Gym name. 
 
 ## dashboard exemple card.yaml
 
@@ -66,7 +66,7 @@ cards:
 
 ## Overview
 
-![Overview] (overview.png)
+![Overview](overview.png)
 
 
 ## Notes
