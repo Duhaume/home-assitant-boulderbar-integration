@@ -1,5 +1,5 @@
 
-# Get information about boulderbar climbing gym capacity 
+# Get information about austrian boulderbar climbing gym capacity 
 
 A sensor platform which allows you to get information about your favourite boulderbar climbing gym capacity
 
@@ -22,7 +22,7 @@ boulderbar:
 key | description
 -- | --
 **platform (Required)** | The platform name
-**location (Required)** | The Gym name
+**location (Required)** | The gym name
 
 ## dashboard exemple card.yaml
 
