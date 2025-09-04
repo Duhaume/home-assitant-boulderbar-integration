@@ -1,0 +1,9 @@
+{
+  "domain": "boulderbar",
+  "name": "BoulderBar",
+  "version": "1.0.2",
+  "documentation": "https://github.com/Duhaume/home-assitant-boulderbar-integration",
+  "requirements": [],
+  "codeowners": "@duhaume",
+  "iot_class": "cloud_polling"
+}
